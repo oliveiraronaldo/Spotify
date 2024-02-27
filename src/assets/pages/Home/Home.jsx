@@ -4,8 +4,8 @@ import { Link } from "react-router-dom"
 
 export default function Home() {
 
-    const CLIENT_ID = "078ddffa5fed473594cfbf543a66e462";
-    const CLIENT_SECRET = "f47bf8c3cee646ac9e49f7d5cf6d0f22";
+    const CLIENT_ID = "**********************";
+    const CLIENT_SECRET = "******************";
 
     const [query, setQuery] = useState('');
     const [results, setResults] = useState([]);
