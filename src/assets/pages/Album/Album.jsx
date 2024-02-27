@@ -3,8 +3,8 @@ import React, { useState, useEffect, useRef } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 
 export default function AlbumPage() {
-    const CLIENT_ID = "078ddffa5fed473594cfbf543a66e462";
-    const CLIENT_SECRET = "f47bf8c3cee646ac9e49f7d5cf6d0f22";
+    const CLIENT_ID = "*************8";
+    const CLIENT_SECRET = "*****************88";
 
     const [tracks, setTracks] = useState([]);
     const { id, name } = useParams();
