@@ -1,4 +1,5 @@
-Trabalho de Programação pra internet 
+Trabalho de Programação pra internet ADS-IFTM
+
 Intruções: Desenvolver uma aplicação em React que utilize a API do Spotify para popular os dados do site, com as seguintes funcionalidades:
 
 --Página inicial: Uma caixa de busca onde o usuário poderá buscar um artista (cantou, banda) pelo nome.
