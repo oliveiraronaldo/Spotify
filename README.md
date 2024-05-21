@@ -2,8 +2,11 @@ Trabalho de Programação pra internet
 Intruções: Desenvolver uma aplicação em React que utilize a API do Spotify para popular os dados do site, com as seguintes funcionalidades:
 
 --Página inicial: Uma caixa de busca onde o usuário poderá buscar um artista (cantou, banda) pelo nome.
+
 --A página deverá exibir os resultados da busca na página (Foto e nome do artista), com um link para visualizar a página do Artista.
+
 --Ao clicar no Artista, a nova página deverá exibir todos os álbuns do artista (Foto, nome e ano).
+
 -- Ao clicar em um Álbum a próxima página deverá listar todas as músicas contidas no álbum. Exiba o número da faixa, o nome, duração e um Botão de play, para ouvir a prévia da música (A API fornece o endereço de um MP3 para a prévia).
 
 <h2>Home</h2>
